@@ -22,4 +22,4 @@ I am a student at **LFI Samuel Beckett (Dublin)** working at the intersection of
 
 ### 📈 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-moche-a266563a4/)
-* [Email](m.loicmce@gmail.com)
+* **m.loicmce@gmail.com**
